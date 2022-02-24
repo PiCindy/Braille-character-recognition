@@ -1,0 +1,4 @@
+,Model,Loss,Optmizer,lr,Accuracy
+0,simple,CrossEntropyLoss,SGD,0.001,78.2051282051282
+1,6cells,CrossEntropyLoss,Adam,0.003,89.74358974358974
+2,6cells_map,BCELoss,SGD,0.01,75.0
